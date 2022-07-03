@@ -1,8 +1,7 @@
 ### Hola, soy Anthony
 
-## Soy estudiante de la Universidad Estatal de Milagro (UNEMI)!!
+## 💻 Amante de la tecnología y estudiante.
 
-- 💻
 <br />
 
 ### Languages and Tools:
