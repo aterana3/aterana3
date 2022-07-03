@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, soy Anthony
 
-<!--
-**aterana3/aterana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy estudiante de la Universidad Estatal de Milagro (UNEMI)!!
 
-Here are some ideas to get you started:
+- 💻
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<img align="left" alt="Pseint" width="26px" src="https://johanandres725.files.wordpress.com/2014/08/pse1.png" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<br />
+<br />
+
+![stats](https://github-readme-stats.vercel.app/api?username=aterana3&count_private=true)
