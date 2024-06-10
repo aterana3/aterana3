@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Anthony Emiliano Terán Arellano
+# ¡Hola! 👋 Soy Anthony Terán Arellano
 
 ### 🎓 Estudiante de Ingeniería en Software | Universidad Estatal de Milagro
 
