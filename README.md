@@ -50,11 +50,6 @@ const professionalProfile = {
 
 -----
 
-### 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aterana3&count_private=true&show_icons=true&theme=default)
------
-
 ### 📬 Contacto
 
 - **Correo:** [anthonyemiliano103@gmail.com](mailto:anthonyemiliano103@gmail.com)
