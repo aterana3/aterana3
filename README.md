@@ -1,10 +1,10 @@
 # Hola, soy Anthony Terán 👋
 
-### Ingeniero de Software | Desarrollador Full Stack
+### Ingeniero de Software
 
-Soy un Ingeniero de Software en etapa final de titulación con una trayectoria que precede a mi formación académica. Programo desde los 13 años, lo que me permitió desarrollar una **lógica algorítmica** y una comprensión profunda de la programación orientada a objetos mucho antes de iniciar la universidad.
+Soy **Ingeniero de Software titulado**, con una trayectoria que precede a mi formación académica. Programo desde los 13 años, lo que me permitió desarrollar una **lógica algorítmica sólida** y una comprensión profunda de la programación orientada a objetos mucho antes de iniciar la universidad.
 
-Hoy, mi enfoque ha madurado hacia la **Arquitectura de Software** y el desarrollo de soluciones escalables. Más allá de la escritura de código, me especializo en el diseño de sistemas eficientes y la implementación de prácticas de **CI/CD** para garantizar despliegues robustos y mantenibles.
+Hoy mi enfoque está orientado a la **Arquitectura de Software**, el diseño de sistemas escalables y la implementación de buenas prácticas de **CI/CD** para garantizar soluciones robustas, mantenibles y listas para producción.
 
 ---
 
@@ -12,7 +12,7 @@ Hoy, mi enfoque ha madurado hacia la **Arquitectura de Software** y el desarroll
 
 ```typescript
 const professionalProfile = {
-  focus: "Software Architecture & Scalability",
+  focus: "Software Architecture & Scalable Systems",
 
   core_languages: [
     "Python",
@@ -22,8 +22,9 @@ const professionalProfile = {
   ],
 
   frameworks_&_ecosystems: {
-    web_moderno: ["Astro", "Next.js", "React"],
+    frontend:    ["Next.js", "React", "Astro"],
     backend:     ["Django", "Node.js (Express/Nest)"],
+    fullstack:   ["REST Architecture"],
     cms:         ["WordPress"]
   },
   
@@ -40,18 +41,20 @@ const professionalProfile = {
     "Git Flow"
   ]
 };
-````
+```
+
+---
 
 ### 🚀 Estado Actual
 
-* 🔭 **Actualmente trabajando en:** Mi proyecto de titulación enfocado en aplicaciones móviles con arquitectura REST.
-* 🌱 **Aprendiendo:** Profundizando en arquitecturas de microservicios y patrones de diseño avanzados.
-* 🧠 **Interés principal:** Diseño de Software, Lógica de Negocio y Automatización de despliegues.
+* 🏢 **Actualmente desarrollando:** Sistema ERP empresarial con arquitectura REST usando Django + Next.js.
+* 🌱 **Profundizando en:** Arquitecturas de microservicios, patrones de diseño avanzados y escalabilidad de sistemas.
+* 🧠 **Enfoque principal:** Arquitectura de Software, diseño de dominio (DDD) y automatización de despliegues.
 
------
+---
 
 ### 📬 Contacto
 
-- **Correo:** [anthonyemiliano103@gmail.com](mailto:anthonyemiliano103@gmail.com)
-- **LinkedIn:** [aterana3](https://www.linkedin.com/in/aterana3/)
-- **Twitter/X:** [@aterana3](https://twitter.com/aterana3)
+* **Correo:** [anthonyemiliano103@gmail.com](mailto:anthonyemiliano103@gmail.com)
+* **LinkedIn:** [aterana3](https://www.linkedin.com/in/aterana3/)
+* **Twitter/X:** [@aterana3](https://twitter.com/aterana3)
